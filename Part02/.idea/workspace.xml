@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1336e76f-e446-492a-894d-e6a03b75bf09" name="Changes" comment="Part02.Ch04 [예제 4-2. 시각]">
-      <change afterPath="$PROJECT_DIR$/src/ch04/Knight.java" afterDir="false" />
+    <list default="true" id="1336e76f-e446-492a-894d-e6a03b75bf09" name="Changes" comment="Part02.Ch04 [왕실의 나이트]">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Part02/ch04/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part02/ch04/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -34,20 +34,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/minsoo/coding_study/ThisIsCodingTest/Part02&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.ch04.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch03.Main" />
@@ -90,7 +91,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675170336924</updated>
-      <workItem from="1675170343156" duration="6329000" />
+      <workItem from="1675170343156" duration="7887000" />
+      <workItem from="1675232701076" duration="494000" />
+      <workItem from="1675609096940" duration="28000" />
+      <workItem from="1675609995894" duration="604000" />
     </task>
     <task id="LOCAL-00001" summary="Part02.Ch03 예제3-1 거스름돈">
       <created>1675177846935</created>
@@ -134,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675182482211</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Part02.Ch04 [왕실의 나이트]">
+      <created>1675183971159</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675183971159</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +169,7 @@
     <MESSAGE value="Part02.Ch03 [1이 될 때까지]" />
     <MESSAGE value="Part02.Ch04 [예제 4-1. 상하좌우]" />
     <MESSAGE value="Part02.Ch04 [예제 4-2. 시각]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Part02.Ch04 [예제 4-2. 시각]" />
+    <MESSAGE value="Part02.Ch04 [왕실의 나이트]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Part02.Ch04 [왕실의 나이트]" />
   </component>
 </project>
