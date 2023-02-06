@@ -14,9 +14,9 @@ public class MuziMeokBang {
                 return -1;
             if (foodTime[sec % len] == 0)
                 sec++;
-            else
-                foodTime[(sec++) % len]++;
+            if (foodTime[sec % len] != 0)
+                foodTime[(sec++) % len]--;
         }
-        return (++sec) % len;
+        return (sec % len) + 1;
     }
 }
